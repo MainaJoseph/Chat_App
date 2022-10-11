@@ -1,6 +1,6 @@
 # Chat React/Typescript
 
-# Demo https://tranquil-snickerdoodle-8d5d8b.netlify.app/
+Demo https://tranquil-snickerdoodle-8d5d8b.netlify.app/
 
 This project is a pretty full-stack chat app built with React and Typesctipt.
 
