@@ -1,4 +1,6 @@
-# Pretty Chat React/Typescript
+# Chat React/Typescript
+
+# Demo https://tranquil-snickerdoodle-8d5d8b.netlify.app/
 
 This project is a pretty full-stack chat app built with React and Typesctipt.
 
@@ -45,4 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
-https://chatengine.io/projects/a3d6d971-a410-4840-bb66-68137068241a#users
+
