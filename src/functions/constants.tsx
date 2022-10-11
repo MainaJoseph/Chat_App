@@ -1,3 +1,7 @@
-export const projectId = "a3d6d971-a410-4840-bb66-68137068241a";
+export const projectId = process.env.REACT_APP_PROJECT_ID
+  ? process.env.REACT_APP_PROJECT_ID
+  : "";
 
-export const privateKey: string =  "e7fb5a3d-b7f4-4edf-8e89-e68b466c7f8a";
+export const privateKey: string = process.env.REACT_APP_PROJECT_KEY
+  ? process.env.REACT_APP_PROJECT_KEY
+  : "";
