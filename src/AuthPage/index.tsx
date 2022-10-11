@@ -15,7 +15,7 @@ const AuthPage = () => {
     <div className="background-image" style={backgroundImage}>
       <div className="background-gradient-dark">
         <div style={styles.formContainerStyle}>
-          <div style={styles.titleStyle}>Pretty</div>
+          <div style={styles.titleStyle}>Joseph Maina</div>
 
           {hasAccount ? (
             <LogInForm onHasNoAccount={() => setHasAccount(false)} />
