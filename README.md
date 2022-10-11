@@ -1,5 +1,8 @@
 # Chat React/Typescript
 
+![po](https://user-images.githubusercontent.com/75726095/195109093-7d93f1df-1060-4f77-8aac-1862b864c3a5.png)
+
+
 Demo https://tranquil-snickerdoodle-8d5d8b.netlify.app/
 
 This project is a pretty full-stack chat app built with React and Typesctipt.
